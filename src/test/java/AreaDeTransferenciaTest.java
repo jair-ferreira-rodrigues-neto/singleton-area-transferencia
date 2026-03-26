@@ -1,7 +1,6 @@
-package Singleton;
-
 import org.example.AreaDeTransferencia;
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class AreaDeTransferenciaTest {
